@@ -1,0 +1,7 @@
+# config/locals.yml
+development:
+  :daa_api_lib: '/website/lib/daa_back.so'
+
+
+production:
+  :daa_api_lib: '/website/lib/daa_back.so'

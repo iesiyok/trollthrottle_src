@@ -1,0 +1,8 @@
+
+# config/locals.yml
+development:
+  :keys_path: '/id_verifier/keys_and_certs'
+
+
+production:
+  :keys_path: '/id_verifier/keys_and_certs'

@@ -1,0 +1,9 @@
+# config/locals.yml
+development:
+  :daa_api_lib: '/sign_verifier/lib/daa_back.so'
+  :keys_path: '/sign_verifier/keys_and_certs/'
+
+
+production:
+  :daa_api_lib: '/sign_verifier/lib/daa_back.so'
+  :keys_path: '/sign_verifier/keys_and_certs/'

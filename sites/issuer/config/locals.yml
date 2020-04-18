@@ -1,0 +1,9 @@
+# config/locals.yml
+development:
+  :daa_api_lib: '/issuer/lib/daa_back.so'
+  :keys_path: '/issuer/keys_and_certs'
+
+
+production:
+  :daa_api_lib: '/issuer/lib/daa_back.so'
+  :keys_path: '/issuer/keys_and_certs'

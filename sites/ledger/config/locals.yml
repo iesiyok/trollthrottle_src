@@ -1,0 +1,8 @@
+# config/locals.yml
+development:
+  :website_notify: 'http://nginx:4004/verifier/ledger_notify'
+
+
+
+production:
+  :website_notify: 'http://nginx:4004/verifier/ledger_notify'
